@@ -1,0 +1,28 @@
+_repo: Verdi---The-Story-of-the-Little-Boy-who-Loved-the-Hand-Organ_35158
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35158-h/images/cover.png
+creator:
+  author:
+    agent_name: Tapper, Thomas
+    birthdate: 1864
+    deathdate: 1958
+    gutenberg_agent_id: '5481'
+    url: http://www.gutenberg.org/2009/agents/5481
+description: ''
+gutenberg_bookshelf: Child's Own Book of Great Musicians
+gutenberg_issued: '2011-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35158'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Composers -- Biography -- Juvenile literature'
+- !lcsh 'Verdi, Giuseppe, 1813-1901 -- Juvenile literature'
+- !lcc 'ML'
+title: 'Verdi : The Story of the Little Boy who Loved the Hand Organ'
+url: http://www.gutenberg.org/ebooks/35158
